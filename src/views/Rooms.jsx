@@ -55,9 +55,6 @@ const rooms = (props) => {
               <option value="individual">Individual</option>
               <option value="familiar">Familiar</option>
             </select>
-            <select>
-              <option>Date</option>
-            </select>
           </div>
         </section>
 
